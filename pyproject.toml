@@ -26,5 +26,5 @@ dependencies = [
     "nltk==3.9.1",
     "regex==2024.11.6",
     "tqdm==4.67.1",
-    "psycopg2>=2.9.10",
+    "psycopg2-binary",
 ]
