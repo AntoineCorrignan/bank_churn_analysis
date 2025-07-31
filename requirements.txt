@@ -52,7 +52,7 @@ plotly==6.2.0
 prompt-toolkit==3.0.51
 protobuf==4.25.8
 psutil==7.0.0
-psycopg2==2.9.10
+psycopg2-binary==2.9.10
 ptyprocess==0.7.0
 pure-eval==0.2.3
 pyarrow==20.0.0
